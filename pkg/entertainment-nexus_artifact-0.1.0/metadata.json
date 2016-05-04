@@ -1,0 +1,13 @@
+{
+  "name": "entertainment-nexus_artifact",
+  "version": "0.1.0",
+  "author": "entertainment",
+  "summary": "Download nexus artifact",
+  "license": "Apache-2.0",
+  "source": "ssh://git@stash.entertainment.com:7999/pm/entertainment-nexus_artifact.git",
+  "project_page": "https://stash.entertainment.com/projects/PM/repos/entertainment-nexus_artifact",
+  "issues_url": null,
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Gemfile": "bab0c09fd0838d6ce61f67f281f26b24",
+  "README.md": "314a2b757d9d390a7a39d1236a8ebb64",
+  "Rakefile": "44f1fae7fd296a3d53d1cf6f07a9d387",
+  "lib/puppet/provider/ent_nexus_getartifact/nexus_fetch.rb": "1e578c51b1d14c39df7fe12bb8d1306d",
+  "lib/puppet/type/ent_nexus_getartifact.rb": "a32522e8ccdee0b73f60b9ecb75c7202",
+  "manifests/init.pp": "3a97e15728dfe7d946b734e2de4759e1",
+  "metadata.json": "a0ed458e8aeed39a57b2214ce81e6cbf",
+  "spec/acceptance/class_spec.rb": "17eceb96c931d28a92d6fc4a6bc8552a",
+  "spec/acceptance/nodesets/default.yml": "65dacfef6e6d2edf9b64d0e1b544563e",
+  "spec/classes/class_spec.rb": "f8fc8f104af8a3794ddefc1f80fe8ce0",
+  "spec/fixtures/hiera/hiera.yaml": "0da6b30c83c50e5bfb75937340e3e887",
+  "spec/fixtures/hiera/hieradata/common.yaml": "6105347ebb9825ac754615ca55ff3b0c",
+  "spec/spec_helper.rb": "16e40db6e98594cc8170f4bd322302ce",
+  "spec/spec_helper_acceptance.rb": "d9cf80674fc87780fb8f42392708ad3b",
+  "tests/init.pp": "e5884f339c65ecfe1b673b1b8799fd0f"
+}
